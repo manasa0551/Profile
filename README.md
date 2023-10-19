@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sumyutha </h1>
+<h1 align="center">Hi there 👋, I'm Sumyuktha </h1>
 <h3 align="center">Aspiring Data Scientist,I am a passionate and skilled at using educational knowledge and industry expertise to achieve cutting edge results..</h3>
 
 - 👨‍💻 All of my projects are available at [https://manasa0551.github.io/Sumyuktha.github.io/](https://manasa0551.github.io/Sumyuktha.github.io/)
